@@ -1,0 +1,20 @@
+
+.header-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.search-icon{
+    background-color: lightslategray;
+    border-radius: 10px;
+}
+.icon-large {
+    font-size: 1rem;
+    color: #007bff;
+}
+.user-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
